@@ -1,0 +1,1 @@
+const String router_detail = 'detail_page';
